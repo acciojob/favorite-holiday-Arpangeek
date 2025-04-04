@@ -1,1 +1,1 @@
-//your JS code here. If required.
+cy.get('i').should('exist');
